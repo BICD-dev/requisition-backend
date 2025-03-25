@@ -1,0 +1,5 @@
+vendor/
+node_modules/
+*.log
+.env
+config.php #if config.php contains sensitive data.

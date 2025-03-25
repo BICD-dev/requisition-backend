@@ -1,0 +1,111 @@
+{"fullName":"Iheagwam Bright Chinedum","email":"biheagwam334@stu.ui.edu.ng","password":"bright123","confirmPassword":"bright123","mode":"Staff"}
+{"fullName":"Chinedum Iheagwam","email":"biheagwam334@stu.ui.edu.ng","password":"bright123","confirmPassword":"bright123","mode":"Staff"}
+{"fullName":"Chinedum Iheagwam","email":"biheagwam334@stu.ui.edu.ng","password":"bright123","confirmPassword":"bright123","mode":"Staff"}
+{"fullName":"Bright Iheagwam","email":"bright06iheagwam@gmail.com","password":"bright12","confirmPassword":"bright12","mode":"Staff"}
+{"fullName":"BICD-dev","email":"biheagwam334@stu.ui.edu.ng","password":"bright123","confirmPassword":"bright123","mode":"Staff"}
+{"fullName":"chinedum iheagwam","email":"biheagwam334@stu.ui.edu.ng","password":"bright123","confirmPassword":"bright123","mode":"Staff"}
+{"fullName":"chinedum iheagwam","email":"biheagwam334@stu.ui.edu.ng","password":"bright123","confirmPassword":"bright123","mode":"staff"}
+{"fullName":"chinedum iheagwam","email":"biheagwam334@stu.ui.edu.ng","password":"bright123","confirmPassword":"bright123","mode":"Staff"}
+{"fullName":"chinedum iheagwam","email":"biheagwam334@stu.ui.edu.ng","password":"bright123","confirmPassword":"bright123","mode":"staff"}
+{
+    "fullname":"Chinedum Iheagwam",
+    "email": "biheagwam334@stu.ui.edu.ng",
+    "password": "bright123",
+    "mode":"staff"
+}
+
+{
+    "fullname":"Chinedum Iheagwam",
+    "email": "biheagwam334@stu.ui.edu.ng",
+    "password": "bright123",
+    "mode":"staff"
+}
+
+{
+    "fullname":"Chinedum Iheagwam",
+    "email": "biheagwam334@stu.ui.edu.ng",
+    "password": "bright123",
+    "mode":"staff"
+}
+
+{"fullName":"chinedum iheagwam","email":"biheagwam334@stu.ui.edu.ng","password":"bright123","confirmPassword":"bright123","mode":"staff"}
+{
+    "fullname":"Chinedum Iheagwam",
+    "email": "biheagwam334@stu.ui.edu.ng",
+    "password": "bright123",
+    "mode":"Staff"
+}
+
+{
+    "fullname":"Chinedum Iheagwam",
+    "email": "biheagwam334@stu.ui.edu.ng",
+    "password": "bright123",
+    "mode":"staff"
+}
+
+{"fullName":"chinedum iheagwam","email":"biheagwam334@stu.ui.edu.ng","password":"bright123","confirmPassword":"bright123","mode":"staff"}
+{
+    "fullname":"Chinedum Iheagwam",
+    "email": "biheagwam334@stu.ui.edu.ng",
+    "password": "bright123",
+    "mode":"staff"
+}
+
+{
+    "fullname":"Chinedum Iheagwam",
+    "email": "biheagwam334@stu.ui.edu.ng",
+    "password": "bright123",
+    "mode":"staff"
+}
+
+{
+    "fullname": "chinedum iheagwam",
+    "email": "biheagwam334@stu.ui.edu.ng",
+    "password": "bright123",
+    "mode": "staff"
+}
+{
+    "fullname": "chinedum iheagwam",
+    "email": "biheagwam334@stu.ui.edu.ng",
+    "password": "bright123",
+    "mode": "staff"
+}
+{
+    "fullname": "chnedum iheagwam",
+    "email": "biheagwam334@stu.ui.edu.ng",
+    "password": "bright123",
+    "mode": "staff"
+}
+{"fullName":"chinedum iheagwam","email":"biheagwam334@stu.ui.edu.ng","password":"bright123","confirmPassword":"bright123","mode":"staff"}
+{"fullName":"chinedum iheagwam","email":"biheagwam334@stu.ui.edu.ng","password":"bright123","confirmPassword":"bright123","mode":"staff"}
+{"fullName":"Bright Iheagwam","email":"biheagwam334@stu.ui.edu.ng","password":"bright123","confirmPassword":"bright123","mode":"staff"}
+{"fullName":"Bright Iheagwam","email":"biheagwam334@stu.ui.edu.ng","password":"bright123","confirmPassword":"bright123","mode":"admin"}
+{
+    "fullname": "chnedum iheagwam",
+    "email": "biheagwam334@stu.ui.edu.ng",
+    "password": "bright123",
+    "mode": "admin"
+}
+{
+    "fullname": "chnedum iheagwam",
+    "email": "biheagwam334@stu.ui.edu.ng",
+    "password": "bright123",
+    "mode": "admin"
+}
+{
+    "fullname": "chinedum iheagwam",
+    "email": "biheagwam334@stu.ui.edu.ng",
+    "password": "bright123",
+    "mode": "admin"
+}
+{
+    "fullname": "chinedum iheagwam",
+    "email": "biheagwam334@stu.ui.edu.ng",
+    "password": "bright123",
+    "mode": "admin"
+}
+{"fullName":"chinedum iheagwam","email":"biheagwam334@stu.ui.edu.ng","password":"bright123","confirmPassword":"bright123","mode":"staff"}
+{"fullname":"Chinedum Iheagwam","email":"biheagwam334@stu.ui.edu.ng","password":"bright123","confirmPassword":"bright123","mode":"staff"}
+{"fullname":"Bright Iheagwam","email":"biheagwam334@stu.ui.edu.ng","password":"bright12","confirmPassword":"bright12","mode":"staff"}
+{"fullname":"Nathaniel Godwin","email":"nattyog124@gmail.com","password":"#Nath4152","confirmPassword":"#Nath4152","mode":"admin"}
+{"fullname":"Mr Ibrahim","email":"ibrahim@gmail.com","password":"ibrahim1","confirmPassword":"ibrahim1","mode":"staff"}

@@ -1,0 +1,74 @@
+{"fullname":"Mr Ibrahim","userId":"bfaec20d-03ee-11f0-9c8e-5c60ba3bd9ce","material":"Folders","quantity":"2","remark":"to hold stuff","hodEmail":"bright06iheagwam@gmail.com","cracoEmail":"bright06iheagwam@gmail.com","financeEmail":"bright06iheagwam@gmail.com"}
+
+{"fullname":"Mr Ibrahim","userId":"bfaec20d-03ee-11f0-9c8e-5c60ba3bd9ce","material":"Folders","quantity":"2","remark":"to hold stuff","hodEmail":"bright06iheagwam@gmail.com","cracoEmail":"bright06iheagwam@gmail.com","financeEmail":"bright06iheagwam@gmail.com"}
+
+{
+  "fullname": "John Doe",
+  "userId": "user_12345",
+  "material": "Steel Rod",
+  "quantity": 50,
+  "remark": "Urgent request for site work"
+}
+
+{
+  "fullname": "John Doe",
+  "userId": "user_12345",
+  "material": "Steel Rod",
+  "quantity": 50,
+  "remark": "Urgent request for site work"
+}
+
+{
+  "fullname": "John Doe",
+  "userId": "user_12345",
+  "material": "Steel Rod",
+  "quantity": 50,
+  "remark": "Urgent request for site work"
+}
+
+{
+  "fullname": "John Doe",
+  "userId": "user_12345",
+  "material": "Steel Rod",
+  "quantity": 50,
+  "remark": "Urgent request for site work"
+}
+
+{"fullname":"Mr Ibrahim","userId":"bfaec20d-03ee-11f0-9c8e-5c60ba3bd9ce","material":"Folders","quantity":"2","remark":"to hold stuff","hodEmail":"bright06iheagwam@gmail.com","cracoEmail":"bright06iheagwam@gmail.com","financeEmail":"bright06iheagwam@gmail.com"}
+{"fullname":"Mr Ibrahim","userId":"bfaec20d-03ee-11f0-9c8e-5c60ba3bd9ce","material":"Pens","quantity":"12","remark":"write","hodEmail":"bright06iheagwam@gmail.com","cracoEmail":"bright06iheagwam@gmail.com","financeEmail":"bright06iheagwam@gmail.com"}
+{
+  "fullname": "John Doe",
+  "userId": "user_12345",
+  "material": "Steel Rod",
+  "quantity": 50,
+  "remark": "Urgent request for site work",
+  "hodEmail": "bright06iheagwam@gmail.com",
+  "cracoEmail": "bright06iheagwam@gmail.com",
+  "financeEmail" : "nattyog124@gmail.com"
+}
+
+{
+  "fullname": "John Doe",
+  "userId": "user_12345",
+  "material": "Steel Rod",
+  "quantity": 50,
+  "remark": "Urgent request for site work",
+  "hodEmail": "bright06iheagwam@gmail.com",
+  "cracoEmail": "bright06iheagwam@gmail.com",
+  "financeEmail" : "nattyog124@gmail.com"
+}
+
+{
+  "fullname": "John Doe",
+  "userId": "user_12345",
+  "material": "Steel Rod",
+  "quantity": 50,
+  "remark": "Urgent request for site work",
+  "hodEmail": "bright06iheagwam@gmail.com",
+  "cracoEmail": "bright06iheagwam@gmail.com",
+  "financeEmail" : "nattyog124@gmail.com"
+}
+
+{"fullname":"Mr Ibrahim","userId":"bfaec20d-03ee-11f0-9c8e-5c60ba3bd9ce","material":"Pens","quantity":"2","remark":"to write","hodEmail":"bright06iheagwam@gmail.com","cracoEmail":"bright06iheagwam@gmail.com","financeEmail":"bright06iheagwam@gmail.com"}
+{"fullname":"Chinedum Iheagwam","userId":"18f8b7bd-0303-11f0-b481-5c60ba3bd9ce","material":"Notebooks","quantity":"2","remark":"need to jot down sth","hodEmail":"bright06iheagwam@gmail.com","cracoEmail":"bright06iheagwam@gmail.com","financeEmail":"bright06iheagwam@gmail.com"}
+{"fullname":"Chinedum Iheagwam","userId":"18f8b7bd-0303-11f0-b481-5c60ba3bd9ce","material":"Markers","quantity":"20","remark":"for board","hodEmail":"nattyog124@gmail.com","financeEmail":"nattyog124@gmail.com","cracoEmail":"bright06iheagwam@gmail.com"}
